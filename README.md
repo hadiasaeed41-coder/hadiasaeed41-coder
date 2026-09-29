@@ -8,26 +8,26 @@ I am a Software Engineering student passionate about Artificial Intelligence, we
 |-----------|------------------------|
 | Languages | Python, JavaScript, C#|
 | Tools     | Git, GitHub, VS Code   |
-| Web       | HTML, CSS, REST APIs   |
-| AI/ML     | OpenAI API |
 
 ## Featured Projects
 
-### 🌦️ Weather API Project
+### Weather API Project
 A web application that fetches real-time weather data from a public weather API and displays temperature, humidity, and forecast information in a clean interface.
 - **Tech:** Python, Weather API
 
-### 🤖 AI Chatbot
+###  AI Chatbot
 An intelligent chatbot that uses AI to respond to user queries in natural language. Supports interactive conversation and context-aware replies.
-- **Tech:** Python, OpenAI API
+- **Tech:** Python, Groq API
 
-### 📄 AI PDF Summarizer
+###  AI PDF Summarizer
 A tool that reads PDF documents and generates concise AI-powered summaries, helping users quickly understand long documents.
-- **Tech:** Python, OpenAI API, PDF parsing libraries
+- **Tech:** Python, Groq API, PDF parsing libraries
 
 ## Education
 BS Software Engineering — University of Engineering and Technology Lahore — 2025
 
 ## Contact
 - Email: hadiasaeed41@gmail.com
+- LinkedIn: [Hadia Saeed](www.linkedin.com/in/
+hadia-saeed-a35686393)
 - GitHub: [@hadiasaeed41-coder](https://github.com/hadiasaeed41-coder)
